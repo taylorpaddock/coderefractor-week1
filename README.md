@@ -12,11 +12,12 @@ Website can be accessed through my Gitlab profile via index.html.
 
 ## Usage
 
-Website can be used on desktop and meets all standards for accessibility.
-link: https://github.com/taylorpaddock/homeworkweek1
+Website can be viewed on desktop and meets all standards for accessibility.
+link: https://taylorpaddock.github.io/coderefractor-week1/
 
-*need to add screenshot*
-
+```md
+![website screenshot](./assets/images/website-screenshot.jpg)
+```
 
 ## Credits
 
