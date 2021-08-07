@@ -16,7 +16,7 @@ Website can be viewed on desktop and meets all standards for accessibility.
 link: https://taylorpaddock.github.io/coderefractor-week1/
 
 ```md
-![website screenshot](./assets/images/website-screenshot.jpg)
+![website screenshot](assets/images/website-screenshot.png)
 ```
 
 ## Credits
