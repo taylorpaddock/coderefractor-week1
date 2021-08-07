@@ -12,6 +12,7 @@ nav {
 /* sets website background color to light grey */
 body {
     background-color: #d9dcd6;
+    display: inline;
 }
 
 /* header elements */
@@ -36,7 +37,7 @@ p {
     font-size: 16px;
 }
 
-/* sets images to 200px tall */
+/* sets image max height to 200px */
 img {
     max-height: 200px;
 }

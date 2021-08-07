@@ -13,7 +13,7 @@ Website can be accessed through my Gitlab profile via index.html.
 ## Usage
 
 Website can be used on desktop and meets all standards for accessibility.
-link: *need to add link by publishing website on github*
+link: https://github.com/taylorpaddock/homeworkweek1
 
 *need to add screenshot*
 
